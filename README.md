@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on SEED and Systems Analysis.
+- 🌱 I’m currently learning python, angular.js, django, and react.
+- 💬 Ask me about building energy efficiency and sustainability.
+- 📫 How to reach me: Twitter @alexchapinGreen
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have boy/girl fraternal twins
+
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anchapin.anchapin-badge)
+
 <!--
 **anchapin/anchapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
