@@ -7,7 +7,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have boy/girl fraternal twins
 
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anchapin.anchapin-badge)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+
+[![WrapUp](https://api.githubtrends.io/user/svg/anchapin/repos?time_range=one_year&loc_metric=changed&theme=dark)](https://api.githubtrends.io/user/svg/anchapin/repos?time_range=one_year&loc_metric=changed&theme=dark)
 
 <!--
 **anchapin/anchapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
