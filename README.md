@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SEED and Systems Analysis.
+- 🔭 I’m currently working on SEED and 179D.
 - 🌱 I’m currently learning python, angular.js, django, and react.
 - 💬 Ask me about building energy efficiency and sustainability.
 - 📫 How to reach me: Twitter @alexchapinGreen
