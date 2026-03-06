@@ -30,7 +30,7 @@ Researcher at **NREL** (National Renewable Energy Laboratory) working on:
 ## 📫 Connect
 
 - Twitter: [@alexchapinGreen](https://twitter.com/alexchapinGreen)
-- Location: Golden, CO
+- Location: Richmond, VA
 - Pronouns: he/him
 
 ## ⚡ Fun Fact
