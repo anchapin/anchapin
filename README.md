@@ -12,7 +12,7 @@ AI/ML Researcher @NREL building autonomous agents, neuro-symbolic systems, and A
 
 ## 🏢 Work
 
-Researcher at **NREL** (National Renewable Energy Laboratory) working on:
+Researcher at **NLR** (National Laboratory of the Rockies) working on:
 - Building Energy Modeling (BEM)
 - AI/ML for building efficiency
 - Autonomous agent systems
